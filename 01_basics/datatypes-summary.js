@@ -18,3 +18,7 @@ const myFunction = function(){
     console.log("Hello World")
 }
 
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive)(gets copy), Heap (Non-Primitive)(gets reference of exact values) : types of memory
+
